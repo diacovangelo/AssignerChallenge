@@ -1,2 +1,2 @@
 # AssignerChallenge
-blub
+Run with `mvn clean install`
